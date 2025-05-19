@@ -114,6 +114,12 @@
   border: 1px solid #252525;
 }
 
+.btn-card:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
 .card-content {
   text-align: left;
 }
